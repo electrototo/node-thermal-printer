@@ -23,10 +23,12 @@
   "dependencies": {
     "iconv-lite": "0.5.0",
     "pngjs": "3.3.3",
+    "serialport": "^9.0.7",
     "unorm": "1.4.1",
     "write-file-queue": "0.0.1"
   },
   "devDependencies": {
-    "@types/node": "^10.14.2"
+    "@types/node": "^10.14.2",
+    "electron-rebuild": "^2.3.5"
   }
 }
